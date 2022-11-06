@@ -27,9 +27,9 @@ header{
     height: 600px;
     background: #e1eec3; 
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(78, 56%, 85%, 0.453), hsla(359, 84%, 63%, 0.47)), url(img/abuelas.jpg);
+    background: -webkit-linear-gradient(to right, hsla(78, 56%, 85%, 0.453), hsla(359, 84%, 63%, 0.47)), url(img/abuelas2.jpg);
      /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(78, 56%, 85%, 0.495), hsla(359, 84%, 63%, 0.385)), url(img/abuelas.jpg);
+    background: linear-gradient(to right, hsla(78, 56%, 85%, 0.495), hsla(359, 84%, 63%, 0.385)), url(img/abuelas2.jpg);
      /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
      background-size: cover;
     background-attachment: fixed;
