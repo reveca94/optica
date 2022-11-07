@@ -276,7 +276,7 @@ content-foo p{
     font-size: 24px;
     margin: 20px 0 0 0;
     color: #9e979e;
-
+}
     @media screen and (max-width:900px){
         header{
             background-position: center;
